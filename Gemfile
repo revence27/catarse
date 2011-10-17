@@ -1,7 +1,9 @@
 source 'http://rubygems.org'
 source 'http://gems.github.com'
+#source :rubygems
 gem 'rails', '3.0.3'
-gem 'rake', '0.8.7'
+#gem 'rake', '0.8.7'
+gem 'rake' #    , '0.8.7'
 gem 'pg'
 gem 'haml'
 gem 'slim'
